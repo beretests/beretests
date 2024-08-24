@@ -28,7 +28,7 @@
   <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=js,html,css,ansible,aws,bash,bootstrap,cloudflare,codepen,devto,docker,express,figma,gcp,gitlab,go,grafana,graphql,heroku,jenkins,jest,jquery,kubernetes,linux,mysql,nextjs,nginx,nodejs,postgres,postman,py,rails,raspberrypi,react,ruby,sass,selenium,tailwind,terraform,vercel,visualstudio,vite,workers&line=7"/></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beretests&show_icons=true&locale=en&layout=compact" alt="beretests" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beretests&show_icons=true&locale=en&layout=compact" alt="beretests" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beretests&show_icons=true&locale=en" alt="beretests" /></p>
 
