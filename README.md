@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beretests&label=Profile%20views&color=0e75b6&style=flat" alt="beretests" /> </p>
 
-- 🌱 I’m currently learning **ReactNative and Go**
+- 🌱 I’m currently learning **Data Visualization with Python and ML**
 
 - 📝 I regularly write articles on [dev.to](dev.to)
 
